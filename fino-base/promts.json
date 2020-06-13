@@ -1,0 +1,17 @@
+[
+    {
+        "type": "input",
+        "name": "name",
+        "message": "plase input a name for this project?"
+    },
+    {
+        "type": "input",
+        "name": "author",
+        "message": "plase input a author for this project?"
+    },
+    {
+        "type": "input",
+        "name": "description",
+        "message": "plase input a description for this project?"
+    }
+]
