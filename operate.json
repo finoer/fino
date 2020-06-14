@@ -1,6 +1,6 @@
 {
     "fino-base": {
-        "delete": ["src"],
+        "delete": ["src", "test"],
         "replace": ["fino-base"]
     }
 }
