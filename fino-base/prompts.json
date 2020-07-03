@@ -2,16 +2,16 @@
     {
         "type": "input",
         "name": "name",
-        "message": "name?"
+        "message": "project name?"
     },
     {
         "type": "input",
         "name": "author",
-        "message": "author?"
+        "message": "project author?"
     },
     {
         "type": "input",
         "name": "description",
-        "message": "description?"
+        "message": "input description?"
     }
 ]
