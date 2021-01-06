@@ -1,6 +1,22 @@
 {
-    "fino-base": {
-        "delete": ["src", "test"],
-        "replace": ["fino-base"]
+
+    "fino-child-phaser": {
+        "prompts": [
+            {
+                "type": "input",
+                "name": "name",
+                "message": "项目名称(name)?"
+            },
+            {
+                "type": "input",
+                "name": "author",
+                "message": "作者(author)?"
+            },
+            {
+                "type": "input",
+                "name": "description",
+                "message": "描述(description)?"
+            }
+        ]
     }
 }
