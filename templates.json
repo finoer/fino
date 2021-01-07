@@ -1,13 +1,13 @@
 [
     
     {
-        "name": "child project ",
-        "description": " --- phaser模版",
+        "name": "child project --- phaser模版 ",
+        "description": "phaser模版",
         "value": "https://github.com:finoer/fino-child-phaser#master"
     },
     {
-        "name": "parent project",
-        "description": " --- 基座模版",
+        "name": "parent project --- 基座模版",
+        "description": "基座模版",
         "value": "https://github.com:finoer/fino-base#dev"
     } 
 ]
