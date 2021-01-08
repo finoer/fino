@@ -18,7 +18,7 @@
     {
         "name": "npm project --- package模版",
         "description": "package模版",
-        "value": "https://github.com:finoer/package-startup.git#dev"
+        "value": "https://github.com:finoer/package-startup#dev"
     }
 ]
 
